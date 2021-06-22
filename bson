@@ -1,0 +1,18 @@
+\admin role
+{
+    "username": "admin1",
+    "password": "admin1"
+}
+
+\user role
+{
+    "username": "user11",
+    "password": "user11"
+}
+
+\registration
+{
+    "username": "user11",
+    "email": "email@em.ru",
+    "password": "user11"
+}
